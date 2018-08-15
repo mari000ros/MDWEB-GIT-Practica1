@@ -1,0 +1,23 @@
+commit 58a32357e0863e102ba7074338ff47df454804ac (HEAD -> master)
+Author: maribel condori <maribelconlla@gmail.com>
+Date:   Tue Aug 14 19:17:27 2018 -0400
+
+    secreo index, y me gustanla creacion de carpetas en git
+
+commit 1d90625f92eb33b16883fc350f834710e80ad5d3
+Author: maribel condori <maribelconlla@gmail.com>
+Date:   Tue Aug 14 19:13:42 2018 -0400
+
+    se agrego la imagen img2
+
+commit 85bf56a1f5fc5053675a6746e6c42f83accc8ac7
+Author: maribel condori <maribelconlla@gmail.com>
+Date:   Tue Aug 14 19:11:09 2018 -0400
+
+    se crearon las carpetas css, js, imagenes
+
+commit 109bf0c18ed513b4c7d86c0252119a7a03f3045f
+Author: maribel condori <maribelconlla@gmail.com>
+Date:   Tue Aug 14 19:05:07 2018 -0400
+
+    cambio de nombre de readme a README.md
